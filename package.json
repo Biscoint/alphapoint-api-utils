@@ -1,0 +1,13 @@
+{
+  "name": "alphapoint-api-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Biscoint/alphapoint-api-utils.git",
+  "author": "Gustavo <gugurock50@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "websocket": "^1.0.29",
+    "websocket-as-promised": "^0.10.1"
+  }
+}
