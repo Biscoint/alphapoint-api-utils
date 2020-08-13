@@ -1,4 +1,7 @@
 # alphapoint-api-utils
+
+DEPRECATED
+
 ## AddUserAPIKey-AlphaPoint
 Generate ApiKey and SecretKey for AlphaPoint, using Coinext as example
 
